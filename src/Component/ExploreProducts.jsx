@@ -302,7 +302,7 @@ image: "https://readdy.ai/api/search-image?query=professional%2520product%2520ph
 size: "Large",
 price: 780,
 brand: "Rathna",
-description: "Ground spinner that makes whistling sounds while creating a circle of multicolored sparks.",
+description: "Ground spinnerr that makes whistling sounds while creating a circle of multicolored sparks.",
 rating: 4.4,
 stock: 20
 },
